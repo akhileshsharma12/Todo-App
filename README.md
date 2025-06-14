@@ -37,3 +37,6 @@ No build steps or dependencies required.
 ## License
 
 This project is open source and free
+
+## Author
+ Akhilesh Sharma
